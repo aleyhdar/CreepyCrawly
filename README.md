@@ -1,2 +1,2 @@
 # CreepyCrawly
-Simple Web Scraping with C  
+Simple Web Scraping with RUST 
